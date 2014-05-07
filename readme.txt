@@ -1,6 +1,6 @@
 === Meta Fetcher ===
 Contributors: webdeveric
-Tags: media library, filename, sanitize, special characters
+Tags: meta, shortcode, post
 Requires at least: 3.0.0
 Tested up to: 3.9
 Stable tag: 0.3

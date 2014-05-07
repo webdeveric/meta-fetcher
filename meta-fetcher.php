@@ -4,8 +4,8 @@ Plugin Name: Meta Fetcher
 Plugin Group: Shortcodes
 Plugin URI: http://phplug.in/
 Description: This plugin provides a simple shortcode that allows you to fetch meta information for the current <code>$post</code>. Example Usage: <code>[meta name="some_name_here" default="some default content"]</code>
-Author: Eric King
 Version: 0.3
+Author: Eric King
 Author URI: http://webdeveric.com/
 */
 
