@@ -2,8 +2,8 @@
 Contributors: webdeveric
 Tags: meta, shortcode, post
 Requires at least: 3.0.0
-Tested up to: 3.9
-Stable tag: 0.3
+Tested up to: 3.9.1
+Stable tag: 0.4
 
 This plugin provides a simple `[shortcode]` that allows you to fetch meta information for the current `$post`.
 
@@ -18,6 +18,10 @@ This plugin provides a simple `[shortcode]` that allows you to fetch meta inform
 1. Add shortcode to your content: `[meta name="some_name_here" default="some default content"]`
 
 == Changelog ==
+
+= 0.4 =
+* Added option to return a JSON string.
+* Added options for handling array meta values.
 
 = 0.3 =
 * Added better checking for argument values.
