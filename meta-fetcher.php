@@ -37,7 +37,7 @@ function wde_meta_fetcher_shortcode($atts, $content = null, $code = '')
             array(
                 'name'       => '',
                 'default'    => '',
-                'join'       => '',
+                'join'       => ', ',
                 'shortcode'  => true,
                 'filters'    => true,
                 'single'     => true,
