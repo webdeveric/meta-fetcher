@@ -2,7 +2,7 @@
 Contributors: webdeveric
 Tags: meta, shortcode, post
 Requires at least: 3.0.0
-Tested up to: 4.2.0
+Tested up to: 4.4.0
 Stable tag: 0.4
 
 This plugin provides a simple [meta] shortcode that allows you to fetch meta information for the current $post.
